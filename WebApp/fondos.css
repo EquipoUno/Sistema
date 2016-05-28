@@ -1,0 +1,61 @@
+.bg-pink{
+    background-color: #FF66CC;
+    color: #660066;
+}
+.bg-yellow{
+    background-color: #ffcc00;
+    color: #806600;
+}
+.bg-cyan{
+    background-color: #66ccff;
+    color: #0000b3;    
+}
+.bg-black{
+    background-color: #262626;
+    color: #e6e6e6;
+}
+.bg-light-gray{
+    background-color: #d9d9d9;
+    color: #1a1a1a;
+}
+.bg-mid-gray{
+    background-color: #999999;
+    color:black;
+}
+.bg-white{
+    background-color: #f2f2f2;
+    color: #262626;
+}
+.black-overlay{
+    display: none;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index:1001;
+    -moz-opacity: 0.8;
+    opacity:.80;
+    filter: alpha(opacity=80);
+}
+.white-content{
+    display: none;
+    position: absolute;
+    top: 15%;
+    left: 37%;
+    width: 20%;
+    height: 50%;
+    z-index:1002;
+    overflow: auto;
+}
+.white-content-registro{
+    display: none;
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    width: 50%;
+    height: 70%;
+    z-index:1002;
+    overflow: auto;
+}

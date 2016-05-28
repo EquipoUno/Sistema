@@ -1,0 +1,206 @@
+
+button{
+    margin: 5px 5px 5px 5px;
+    height: 30px;
+}
+.boton-bloque{
+    display: block;
+    width: 100%;
+    height: 40px;
+}
+.boton-padding-md{
+    padding: 15px;  
+}
+.boton-padding-tn{
+    padding: 12px;    
+}
+.boton-padding-sm{
+    padding: 8px;  
+}
+.boton-md{
+    height: 30px;
+}
+.boton-lg{
+    height: 45px;
+}
+.btn-green { 
+    color: #ffffff; 
+    background-color: #30BD1B; 
+    border-color: #130269; 
+} 
+.btn-green:hover, 
+.btn-green:focus, 
+.btn-green:active, 
+.btn-green.active, 
+.open .dropdown-toggle.btn-green { 
+    color: #ffffff; 
+    background-color: #0B7A12; 
+    border-color: #130269; 
+} 
+
+.btn-green:active, 
+.btn-green.active, 
+.open .dropdown-toggle.btn-green { 
+    background-image: none; 
+} 
+
+.btn-green.disabled, 
+.btn-green[disabled], 
+fieldset[disabled] .btn-green, 
+.btn-green.disabled:hover, 
+.btn-green[disabled]:hover, 
+fieldset[disabled] .btn-green:hover, 
+.btn-green.disabled:focus, 
+.btn-green[disabled]:focus, 
+fieldset[disabled] .btn-green:focus, 
+.btn-green.disabled:active, 
+.btn-green[disabled]:active, 
+fieldset[disabled] .btn-green:active, 
+.btn-green.disabled.active, 
+.btn-green[disabled].active, 
+fieldset[disabled] .btn-green.active { 
+    background-color: #30BD1B; 
+    border-color: #130269; 
+} 
+
+.btn-green .badge { 
+    color: #30BD1B; 
+    background-color: #ffffff; 
+}
+.btn-danger { 
+    background-color: #FF0000; 
+}
+.btn-blue { 
+    color: #ffffff; 
+    background-color: #0015FF; 
+    border-color: #130269; 
+} 
+.btn-blue:hover, 
+.btn-blue:focus, 
+.btn-blue:active, 
+.btn-blue.active, 
+.open .dropdown-toggle.btn-blue { 
+    color: #ffffff; 
+    background-color: #0802AB; 
+    border-color: #130269; 
+} 
+.btn-blue:active, 
+.btn-blue.active, 
+.open .dropdown-toggle.btn-blue { 
+    background-image: none; 
+} 
+.btn-blue.disabled, 
+.btn-blue[disabled], 
+fieldset[disabled] .btn-blue, 
+.btn-blue.disabled:hover, 
+.btn-blue[disabled]:hover, 
+fieldset[disabled] .btn-blue:hover, 
+.btn-blue.disabled:focus, 
+.btn-blue[disabled]:focus, 
+fieldset[disabled] .btn-blue:focus, 
+.btn-blue.disabled:active, 
+.btn-blue[disabled]:active, 
+fieldset[disabled] .btn-blue:active, 
+.btn-blue.disabled.active, 
+.btn-blue[disabled].active, 
+fieldset[disabled] .btn-blue.active { 
+    background-color: #556AFF; 
+    border-color: #130269; 
+} 
+.btn-blue .badge { 
+    color: #0015FF; 
+    background-color: #ffffff; 
+}
+.btn-black { 
+    color: #ffffff; 
+    background-color: #3C3B3D; 
+    border-color: #000000; 
+} 
+
+.btn-black:hover, 
+.btn-black:focus, 
+.btn-black:active, 
+.btn-black.active, 
+.open .dropdown-toggle.btn-black { 
+    color: #ffffff; 
+    background-color: #000000; 
+    border-color: #000000; 
+} 
+
+.btn-black:active, 
+.btn-black.active, 
+.open .dropdown-toggle.btn-black { 
+    background-image: none; 
+} 
+
+.btn-black.disabled, 
+.btn-black[disabled], 
+fieldset[disabled] .btn-black, 
+.btn-black.disabled:hover, 
+.btn-black[disabled]:hover, 
+fieldset[disabled] .btn-black:hover, 
+.btn-black.disabled:focus, 
+.btn-black[disabled]:focus, 
+fieldset[disabled] .btn-black:focus, 
+.btn-black.disabled:active, 
+.btn-black[disabled]:active, 
+fieldset[disabled] .btn-black:active, 
+.btn-black.disabled.active, 
+.btn-black[disabled].active, 
+fieldset[disabled] .btn-black.active { 
+    background-color: #3C3B3D; 
+    border-color: #000000; 
+} 
+
+.btn-black .badge { 
+    color: #3C3B3D; 
+    background-color: #ffffff; 
+}
+
+.btn-red { 
+    color: #ffffff; 
+    background-color: #FC0000; 
+    border-color: #000000; 
+} 
+
+.btn-red:hover, 
+.btn-red:focus, 
+.btn-red:active, 
+.btn-red.active, 
+.open .dropdown-toggle.btn-red { 
+    color: #ffffff; 
+    background-color: #D10000; 
+    border-color: #000000; 
+} 
+
+.btn-red:active, 
+.btn-red.active, 
+.open .dropdown-toggle.btn-red { 
+    background-image: none; 
+} 
+
+.btn-red.disabled, 
+.btn-red[disabled], 
+fieldset[disabled] .btn-red, 
+.btn-red.disabled:hover, 
+.btn-red[disabled]:hover, 
+fieldset[disabled] .btn-red:hover, 
+.btn-red.disabled:focus, 
+.btn-red[disabled]:focus, 
+fieldset[disabled] .btn-red:focus, 
+.btn-red.disabled:active, 
+.btn-red[disabled]:active, 
+fieldset[disabled] .btn-red:active, 
+.btn-red.disabled.active, 
+.btn-red[disabled].active, 
+fieldset[disabled] .btn-red.active { 
+    background-color: #FC0000; 
+    border-color: #000000; 
+} 
+
+.btn-red .badge { 
+    color: #FC0000; 
+    background-color: #ffffff; 
+}
+
+
